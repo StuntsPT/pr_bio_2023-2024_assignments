@@ -1,0 +1,16 @@
+>Ambiguous sequence identifier
+ATGHACCGVTAGCBGAADCGA
+>Unambiguoussequence identifier (1)
+ATGAACCGCTAGCCGAATCGA
+>Unambiguous sequence identifier (2)
+ATGTACCGGTAGCGGAAACGA
+>Unambiguous sequence identifier (3)
+ATGCACCGATAGCTGAAGCGA
+>Reverse unambiguous sequence identifier (3)
+AGCGAAGTCGATAGCCACGTA
+>Complementary unambiguous sequence identifier (3)
+TCGCTTCAGCTATCGGTGCAT
+>Reverse-complementary sequence identifier (3)
+TACGTGGCTATCGACTTCGCT
+>Amino-acid chain sequence(3)
+YVAIDFA
