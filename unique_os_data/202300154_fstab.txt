@@ -1,0 +1,14 @@
+
+#
+# /etc/fstab
+# Created by anaconda on Mon Nov 27 17:27:49 2023
+#
+# Accessible filesystems, by reference, are maintained under '/dev/disk/'.
+# See man pages fstab(5), findfs(8), mount(8) and/or blkid(8) for more info.
+#
+# After editing this file, run 'systemctl daemon-reload' to update systemd
+# units generated from this file.
+#
+UUID=4e0f63db-41a0-45c2-9a61-c377b141d9df /                       btrfs   subvol=root,compress=zstd:1 0 0
+UUID=f46cda15-2ace-4854-8fe5-4c1e9ee193bf /boot                   ext4    defaults        1 2
+UUID=4e0f63db-41a0-45c2-9a61-c377b141d9df /home                   btrfs   subvol=home,compress=zstd:1 0 0
