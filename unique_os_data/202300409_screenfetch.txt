@@ -1,0 +1,18 @@
+                             diogomota@localhost
+                             OS: Oracle Linux Server release 9.3
+                             Kernel: aarch64 Linux 5.15.0-200.131.27.el9uek.aarch64
+         #####               Uptime: 13m
+        #######              Packages: 1171
+        ##O#O##              Shell: bash
+        #######              Resolution: 1594x916
+      ###########            DE: GNOME 40.0
+     #############           WM: Mutter
+    ###############          WM Theme: Adwaita
+    ################         GTK Theme: Adwaita [GTK2/3]
+   #################         Icon Theme: Adwaita
+ #####################       Font: Cantarell 11
+ #####################       Disk: 5,6G / 64G (9%)
+   #################         CPU: 4x
+                             GPU: llvmpipe (LLVM 16.0.6, 128 bits)
+                             RAM: 1283MiB / 4524MiB
+
