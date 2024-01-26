@@ -1,0 +1,16 @@
+>DNA sequence with 4 ambiguities
+ATGCRCGATTAYDGGKTACCA
+>Possible unambiguous sequence 1
+ATGCACGATTACAGGGTACCA
+>Possible unambiguous sequence 2
+ATGCGCGATTATGGGTTACCA
+>Possible unambiguous sequence 3
+ATGCACGATTATTGGGTACCA
+>Reverse of sequence 2
+ACCATTGGGTATTAGCGCGTA
+>Complement of sequence 2
+TACGCGCTAATACCCAATGGT
+>Reverse-complement of sequence 2
+TGGTAACCCATAATCGCGCAT
+>Amino-acid chain produced by sequence 2
+MRDYGLP
