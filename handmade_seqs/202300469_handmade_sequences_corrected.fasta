@@ -6,11 +6,11 @@ ATGATTGTACAAAATCCCTAA
 ATGATTGTACGCAAGGCCTAA
 >Unambiguous_03
 ATGATTGTACTCAAGACCTAA
->The reverse of Unabiguous_01
+>Reverse of Unabiguous_01
 AATCCCTAAAACATGTTAGTA
->The complement of Unambiguous_01
+>Complement of Unambiguous_01
 TACTAACATGTTTTAGGGATT
->The reverse-complement of Unambiguous_01
+>Reverse-complement of Unambiguous_01
 TTAGGGATTTTGTACAATCAT
->The translation of Unambiguous_01
+>Translation of Unambiguous_01
 MIVQNP*
