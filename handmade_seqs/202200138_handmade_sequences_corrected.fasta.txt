@@ -1,0 +1,16 @@
+>Sequence Identifier with Ambiguities
+ATGAWCYTGCSGRTCTATGCA
+>Sequence Identifier without Ambiguities 1
+ATGATCCTGCGGATCTATGCA
+>Sequence Identifier without Ambiguities 2
+ATGAACTTGCCGGTCTATGCA
+>Sequence Identifier without Ambiguities 3
+ATGAACCTGCCGGTCTATGCA
+>Reverse
+ACGTATCTGGCCGTCCAAGTA
+>Complement
+TACTTGGACGGCCAGATACGT
+>Reverse Complement
+TGCATAGACCGGCAGGTTCAT
+>Aminoacids
+MNLPVYA
