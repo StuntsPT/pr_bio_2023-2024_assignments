@@ -1,0 +1,18 @@
+[0m[1;31m                          ./+o+-      [0m[1;31m prbio[0m[1m@[0m[0m[1;31mPrBio-Emergency-VM[0m
+[0m[1;37m                  yyyyy- [0m[1;31m-yyyyyy+     [0m[1;31m OS:[0m Ubuntu 20.04 LTS (Focal Fossa)[0m
+[0m[1;37m               [0m[1;37m://+//////[0m[1;31m-yyyyyyo     [0m[1;31m Kernel:[0m x86_64 Linux 5.15.0-76-generic[0m
+[0m[1;33m           .++ [0m[1;37m.:/++++++/-[0m[1;31m.+sss/`     [0m[1;31m Uptime:[0m 37m[0m
+[0m[1;33m         .:++o:  [0m[1;37m/++++++++/:--:/-     [0m[1;31m Packages:[0m 981[0m
+[0m[1;33m        o:+o+:++.[0m[1;37m`..```.-/oo+++++/    [0m[1;31m Shell:[0m bash 5.0.17[0m
+[0m[1;33m       .:+o:+o/.[0m[1;37m          `+sssoo+/   [0m[1;31m Resolution:[0m 1920x969[0m
+[0m[1;37m  .++/+:[0m[1;33m+oo+o:`[0m[1;37m             /sssooo.  [0m[1;31m DE:[0m Enlightenment[0m
+[0m[1;37m /+++//+:[0m[1;33m`oo+o[0m[1;37m               /::--:.  [0m[1;31m WM:[0m E17[0m
+[0m[1;37m \+/+o+++[0m[1;33m`o++o[0m[1;31m               ++////.  [0m[1;31m WM Theme:[0m [0m
+[0m[1;37m  .++.o+[0m[1;33m++oo+:`[0m[1;31m             /dddhhh.  [0m[1;31m GTK Theme:[0m Not available. [GTK2], Adwaita [GTK3][0m
+[0m[1;33m       .+.o+oo:.[0m[1;31m          `oddhhhh+   [0m[1;31m Icon Theme:[0m MokshaArcGreen-Icons[0m
+[0m[1;33m        \+.++o+o`[0m[1;31m`-````.:ohdhhhhh+    [0m[1;31m Font:[0m Not available.[0m
+[0m[1;33m         `:o+++ [0m[1;31m`ohhhhhhhhyo++os:     [0m[1;31m Disk:[0m 5,9G / 94G (7%)[0m
+[0m[1;33m           .o:[0m[1;31m`.syhhhhhhh/[0m[1;33m.oo++o`     [0m[1;31m CPU:[0m AMD Ryzen 5 5600 6-Core @ 2x 3.5GHz[0m
+[0m[1;31m               /osyyyyyyo[0m[1;33m++ooo+++/    [0m[1;31m GPU:[0m VMware SVGA II Adapter[0m
+[0m[1;31m                   ````` [0m[1;33m+oo+++o\:    [0m[1;31m RAM:[0m 560MiB / 3912MiB[0m
+[0m[1;33m                          `oo++.      [0m

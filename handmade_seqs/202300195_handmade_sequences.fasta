@@ -1,0 +1,23 @@
+>Sequência 1 (ambiguidades)
+ATSACYCATGCTBATGCAVGC
+
+>Sequência 1-A (sem ambiguidades)
+ATGACTCATGCTGATGCAAGC
+
+>Sequência 1-B (sem ambiguidades)
+ATCACTCATGCTGATGCAAGC
+
+>Sequência 1-C (sem ambiguidades)
+ATGACCCATGCTGATGCAGGC
+
+>Sequência 1-A (reversa)
+CGAACGTAGTCGTACTCAGTA
+
+>Sequência 1-A (complementar)
+TACTGAGTACGACTACGTTCG
+
+>Sequência 1-A (reversa-complementar)
+GCTTGCATCAGCATGAGTCAT
+
+>Aminoácidos de 1-A
+MTHADAS
