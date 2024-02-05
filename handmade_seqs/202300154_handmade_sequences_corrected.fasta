@@ -1,0 +1,23 @@
+>21 nucleotide DNA sequence with 4 ambiguities
+ATGYTTGAACASRTWGACCTT
+
+>Possible unambiguous sequence number 1
+ATGCTTGAACAGGTAGACCTT
+
+>Possible unambiguous sequence number 2
+ATGTTTGAACAGGTTGACCTT
+
+>Possible unambiguous sequence number 3
+ATGCTTGAACACGTTGACCTT
+
+>Reverse of unambiguous sequence number 3
+TTCCAGTTGCACAAGTTCGTA
+
+>Complement of said unambiguous sequence
+TACGAACTTGTGCAACTGGAA
+
+>Revese-complement of said unambiguous sequence
+AAGGTCAACGTGTTCAAGCAT
+
+>Amino-acid chain produced from sequence number 3 according to 1 letter IUPAC encoding
+MLEHVDL
