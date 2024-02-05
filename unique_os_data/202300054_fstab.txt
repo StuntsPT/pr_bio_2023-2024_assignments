@@ -1,0 +1,16 @@
+fedora@fedora:~$ cat /etc/fstab
+
+#
+# /etc/fstab
+# Created by anaconda on Wed Nov 15 06:48:33 2023
+#
+# Accessible filesystems, by reference, are maintained under '/dev/disk/'.
+# See man pages fstab(5), findfs(8), mount(8) and/or blkid(8) for more info.
+#
+# After editing this file, run 'systemctl daemon-reload' to update systemd
+# units generated from this file.
+#
+UUID=aa343f46-0fe7-4473-9859-d1bc0bd2c63b /                       btrfs   subvol=root,compress=zstd:1 0 0
+UUID=d1522145-88de-4e20-a5cc-64c5e7b7db23 /boot                   ext4    defaults        1 2
+UUID=aa343f46-0fe7-4473-9859-d1bc0bd2c63b /home                   btrfs   subvol=home,compress=zstd:1 0 0
+

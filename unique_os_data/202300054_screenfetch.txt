@@ -1,0 +1,20 @@
+fedora@fedora:~$ screenfetch
+           /:-------------:\          fedora@fedora
+        :-------------------::        OS: Fedora 
+      :-----------/shhOHbmp---:\      Kernel: x86_64 Linux 6.5.11-300.fc39.x86_64
+    /-----------omMMMNNNMMD  ---:     Uptime: 3m
+   :-----------sMMMMNMNMP.    ---:    Packages: 1940
+  :-----------:MMMdP-------    ---\   Shell: bash 5.2.21
+ ,------------:MMMd--------    ---:   Resolution: No X Server
+ :------------:MMMd-------    .---:   DE: GNOME 45.1
+ :----    oNMMMMMMMMMNho     .----:   WM: Mutter
+ :--     .+shhhMMMmhhy++   .------/   WM Theme: Adwaita
+ :-    -------:MMMd--------------:    GTK Theme: Adwaita [GTK2/3]
+ :-   --------/MMMd-------------;     Icon Theme: Adwaita
+ :-    ------/hMMMy------------:      Font: Cantarell 11
+ :-- :dMNdhhdNMMNo------------;       Disk: 8.7G / 119G (8%)
+ :---:sdNMMMMNds:------------:        CPU: 11th Gen Intel Core i7-11800H @ 8x 2.304GHz
+ :------:://:-------------::          GPU: SVGA3D; build
+ :---------------------://            RAM: 1656MiB / 7926MiB
+                                     
+
