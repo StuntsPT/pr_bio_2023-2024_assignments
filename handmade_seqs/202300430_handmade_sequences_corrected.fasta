@@ -1,0 +1,16 @@
+> 21 nucleotide sequence with ambiguities
+ATGCRYSWAGCTRSYWSAGCA
+>Unambiguous sequence 1
+ATGCGCCTAGCTAGTACAGCA
+>Unambiguous sequence 2
+ATGCATGAAGCTACTTCAGCA
+>Unambiguous sequence 3
+ATGCACCAAGCTGCCAGAGCA
+>Unambiguous Sequence 3 Reverse
+ACGAGACCGTCGAACCACGTA
+>Unambiguous sequence 3 Complement
+TACGTGGTTCGACGGTCTCGT
+>Unambiguous Sequence 3 Reverse-complement
+TGCTCTGGCAGCTTGGTGCAT
+>Amino-acids chain
+MHGCGSS
