@@ -1,0 +1,18 @@
+>Original sequence with ambiguities
+ATGGATGSGTRTACTGYGWTT
+>Unambiguous sequence 1
+ATGGATGGGTATACTGTGTTT
+>Unambiguous sequence 2
+ATGGATGCGTGTACTGCGATT
+>Unambiguous sequence 3
+ATGGATGGGTGTACTGTGATT
+>Reverse of sequence 2
+TTAGCGTCATGTGCGTAGGTA
+>Complement of sequence 2
+TACCTACGCACATGACGCTAA
+>Reverse-complement of sequence 2
+AATCGCAGTACACGCATCCAT
+>Amino acid chain translation of sequence 2 using IUPAC code
+MDACTAI
+
+
