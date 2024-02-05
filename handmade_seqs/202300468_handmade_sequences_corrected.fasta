@@ -1,0 +1,23 @@
+>Sequence identifier
+ATGANTRCCAGCNGCAKCTAA
+
+>Unambiguous sequence 1
+ATGATTGCCAGCGGCATCTAA
+
+>Unambiguous sequence 2
+ATGAATGCCAGCCGCAGCTAA
+
+>Unambiguous sequence 3
+ATGACTACCAGCTGCAGCTAA
+
+>Unambiguous sequence 2 reverse
+AATCGACGCCGACCGTAAGTA
+
+>Unambiguous sequence 2 complement
+TACTTACGGTCGGCGTCGATT
+
+>Unambiguous sequence 2 reverse-complement
+TTAGCTGCGGCTGGCATTCAT
+
+>Amino-acid chain
+MNASRS*
