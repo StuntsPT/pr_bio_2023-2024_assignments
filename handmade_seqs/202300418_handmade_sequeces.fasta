@@ -1,0 +1,16 @@
+>Ambiguous sequence identifier
+ATGSGATCWGATMATYGAATG
+>Unambiguous sequence identifier (1)
+ATGCGATCAGATCATCGAATG
+>Another unambiguous sequence identifier (2)
+ATGCGATCTGATCATTGAATG
+>Another unambiguous sequence identifier (3)
+ATGGGATCTGATCATCGAATG
+>Reverse unambiguous sequence identifier (1)
+GTAAGCTACTAGACTAGCGTA
+>Complementary unambiguous sequence identifier (1)
+TACGCTAGTCTAGTAGCTTAC
+>Reverse-complementary sequence identifier (1)
+CATTCGATGATCTGATCGCAT
+>Amino-acid chain sequence (1)
+MASALAM

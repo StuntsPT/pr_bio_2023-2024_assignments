@@ -1,0 +1,25 @@
+                          ./+o+-       andrepg@Vm1
+                  yyyyy- -yyyyyy+      OS: Ubuntu 22.04 jammy
+               ://+//////-yyyyyyo      Kernel: x86_64 Linux 6.5.0-15-generic
+           .++ .:/++++++/-.+sss/`      Uptime: 32m
+         .:++o:  /++++++++/:--:/-      Packages: 1718
+        o:+o+:++.`..```.-/oo+++++/     Shell: bash 5.1.16
+       .:+o:+o/.          `+sssoo+/    Resolution: 1280x800
+  .++/+:+oo+o:`             /sssooo.   DE: GNOME 41.7
+ /+++//+:`oo+o               /::--:.   WM: Mutter
+ \+/+o+++`o++o               ++////.   WM Theme: Adwaita
+  .++.o+++oo+:`             /dddhhh.   GTK Theme: Yaru [GTK2/3]
+       .+.o+oo:.          `oddhhhh+    Icon Theme: Yaru
+        \+.++o+o``-````.:ohdhhhhh+     Font: Ubuntu 11
+         `:o+++ `ohhhhhhhhyo++os:      Disk: 14G / 54G (27%)
+           .o:`.syhhhhhhh/.oo++o`      CPU: AMD Ryzen 7 7735HS with Radeon Graphics @ 5x 3.194GHz
+               /osyyyyyyo++ooo+++/     GPU: VMware SVGA II Adapter
+                   ````` +oo+++o\:     RAM: 1829MiB / 10421MiB
+                          `oo++.  
+                          
+                          
+ alignments   Music                         Public                  Templates
+ Desktop     'NC_058381.1?report=fasta'     snap                    Videos
+ Documents   'NC_058381.1?report=fasta.1'   stnum_aligned.fasta
+ Downloads    Pictures                      stnum_sequences.fasta
+
