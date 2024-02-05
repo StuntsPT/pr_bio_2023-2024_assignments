@@ -1,0 +1,25 @@
+>Ambiguous sequence
+ATGMGCTATGAGKAVARCTAA
+
+>Unambiguous sequence (1)
+ATGCGCTATGAGGACAGCTAA
+
+>Unambiguous sequence (2)
+ATGAGCTATGAGTAGAACTAA
+
+>Unambiguous sequence (3)
+ATGCGCTATGAGGAAAGCTAA
+
+>Unambiguous sequence (1) - Reverse
+AATCGACAGGAGTATCGCGTA
+
+>Unambiguous sequence (1) - Complement
+TACGCGATACTCCTGTCGATT
+
+>Unambiguous sequence (1) - Reverse-complement
+TTAGCTGTCCTCATAGCGCAT
+
+>Unambiguous sequence (1) - Amino-acid chain
+MRYEDS*
+
+
