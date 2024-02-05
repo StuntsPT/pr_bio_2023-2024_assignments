@@ -1,0 +1,31 @@
+>sequência com ambiguidades
+ATGGCYWATGACATTGGTASR
+
+>sequência 1 sem ambiguidades
+ATGGCCTATGACATTGGTACG
+
+>sequência 2 sem ambiguidades
+ATGGCTAATGACATTGGTAGG
+
+>sequência 3 sem ambiguidades
+ATGGCTTATGACATTGGTAGA
+
+>reverse da sequência 3
+AGATGGATACAGTATTCGGTA
+
+>complement da sequência 3
+TACCGAATACTGTATCCATCT
+
+>reverse-complement
+TCTACCTATGTCATAAGCCAT
+
+>TCT=ser=S
+>ACC=thr=T
+>TAT=tyr=Y
+>GTC=val=V
+>ATA=ile=I
+>AGC=ser=S
+>CAT=his=H
+
+>cadeia final
+STYVISH
