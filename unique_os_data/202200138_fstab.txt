@@ -1,0 +1,33 @@
+﻿rodrigo@rodrigo-VirtualBox:~$ ls
+Desktop     Imagens  Música   snap            Vídeos
+Documentos  Modelos  Público  Transferências
+rodrigo@rodrigo-VirtualBox:~$ ls -l
+total 36
+drwxr-xr-x 2 rodrigo rodrigo 4096 jan 24 12:30 Desktop
+drwxr-xr-x 2 rodrigo rodrigo 4096 jan 24 12:30 Documentos
+drwxr-xr-x 2 rodrigo rodrigo 4096 jan 26 18:40 Imagens
+drwxr-xr-x 2 rodrigo rodrigo 4096 jan 24 12:30 Modelos
+drwxr-xr-x 2 rodrigo rodrigo 4096 jan 24 12:30 Música
+drwxr-xr-x 2 rodrigo rodrigo 4096 jan 24 12:30 Público
+drwx------ 3 rodrigo rodrigo 4096 jan 26 18:14 snap
+drwxr-xr-x 2 rodrigo rodrigo 4096 jan 26 18:36 Transferências
+drwxr-xr-x 2 rodrigo rodrigo 4096 jan 24 12:30 Vídeos
+rodrigo@rodrigo-VirtualBox:~$ ls -a
+.              .sudo_as_admin_successful
+..             Transferências
+.bash_history  .vboxclient-clipboard-tty7-control.pid
+.bash_logout   .vboxclient-clipboard-tty7-service.pid
+.bashrc        .vboxclient-draganddrop-tty7-control.pid
+.cache         .vboxclient-draganddrop-tty7-service.pid
+.config        .vboxclient-hostversion-tty7-control.pid
+Desktop        .vboxclient-seamless-tty7-control.pid
+.dmrc          .vboxclient-seamless-tty7-service.pid
+Documentos     .vboxclient-vmsvga-session-tty7-control.pid
+.ICEauthority  .vboxclient-vmsvga-session-tty7-service.pid
+Imagens        Vídeos
+.local         .Xauthority
+Modelos        .Xdefaults
+Música         .xscreensaver
+.profile       .xsession-errors
+Público        .xsession-errors.old
+snap
