@@ -1,0 +1,16 @@
+>Ambiguous sequence
+ATGRCYTWSGATCRYTAGTWS
+>Unambiguous_01
+ATGACCTTCGATCATTAGTAG
+>Unambiguous_02
+ATGACTTACGATCACTAGTAC
+>Unambiguous_03
+ATGGCTTTCGATCGTTAGTTC
+>Reverse of Unabiguous_01
+GATGATTACTAGCTTCCAGTA
+>Complement of Unambiguous_01
+TACTGGAAGCTAGTAATCATC
+>Reverse-complement of Unambiguous_01
+ CTACTAATGATCGAAGGTCAT
+>Translation of Unambiguous_01
+ MTFDH**
