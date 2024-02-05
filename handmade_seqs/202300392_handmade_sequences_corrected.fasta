@@ -1,0 +1,23 @@
+>sequencia com ambiguidades 
+ATGASCGWCTCAGAACTAYYA
+
+>sequencia 1 sem ambiguidade:
+ATGACCGTCTCAGAACTACCA
+
+>sequencia 2 sem ambiguidade
+ATGAGCGTCTCAGAACTATTA
+
+>sequencia 3 sem ambiguidade
+ATGACCGACTCAGAACTATTA
+
+>reverso
+ATTATCAAGACTCAGCCAGTA
+
+>complemento
+TAATAGTTCTGAGTCGGTCAT
+
+>complemento reverso
+TACTGGCTGAGTCTTGATAAT
+
+>cadeia de aminoácido final
+YWLSLDN
